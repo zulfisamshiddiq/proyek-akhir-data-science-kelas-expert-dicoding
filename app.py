@@ -281,6 +281,6 @@ if predict_btn:
 # =========================
 st.markdown("""
 <div class="footer">
-    © 2026 Jaya Jaya Institut • Student Dropout Prediction Dashboard | Create by Zulfi Sam Shiddiq
+    © 2026 Zulfi Sam Shiddiq • Machine Learning Project
 </div>
 """, unsafe_allow_html=True)
